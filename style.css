@@ -1,0 +1,87 @@
+/* Style général de la page */
+body {
+    background-color: #f0f0f0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+
+/* Box 1 - Marges */
+.box1 {
+    background-color: #ff6347;
+    padding: 25px;
+    text-align: center;
+    font-size: 18px;
+    font-weight: bold;
+    color: white;
+    border: 3px solid #8b4513;
+    margin: 20px;
+    box-sizing: border-box;
+}
+
+/* Box 2 - Bordures */
+.box2 {
+    background-color: #ffebcd;
+    padding: 20px;
+    text-align: center;
+    font-size: 16px;
+    font-weight: bold;
+    color: #333;
+    border: 3px solid #8b0000;
+    margin: 15px;
+    box-sizing: border-box;
+}
+
+/* Box 3 - Espacement interne */
+.box3 {
+    background-color: #98fb98;
+    padding: 15px;
+    text-align: center;
+    font-size: 14px;
+    font-weight: bold;
+    color: #2f4f4f;
+    border: 3px solid #006400;
+    margin: 10px;
+    box-sizing: border-box;
+}
+
+/* Box 4 - Contenu */
+.box4 {
+    background-color: #add8e6;
+    padding: 10px;
+    text-align: center;
+    font-size: 12px;
+    font-weight: normal;
+    color: #000080;
+    border: 3px solid #4682b4;
+    margin: 5px;
+    box-sizing: border-box;
+}
+
+/* Box 5 - Espacement interne */
+.box5 {
+    background-color: #fffacd;
+    padding: 8px;
+    text-align: center;
+    font-size: 10px;
+    font-weight: normal;
+    color: #333;
+    border: 3px solid #800000;
+    margin: 5px;
+    box-sizing: border-box;
+}
+
+/* Box 6 - Contenu */
+.box6 {
+    background-color: #f0e68c;
+    padding: 5px;
+    text-align: center;
+    font-size: 8px;
+    color: #2f4f4f;
+    border: 3px solid #b8860b;
+    margin: 3px;
+    box-sizing: border-box;
+}
